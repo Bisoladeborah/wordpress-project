@@ -1,9 +1,12 @@
 # wordpress-project
 Project: Transforming Healthcare Online
+
 Introduction:
 In collaboration with COHIG, I took the reins in bringing their healthcare services into the digital realm. Leveraging WordPress and the powerful Elementor page builder, the goal was to create an online presence that mirrors the center's commitment to excellence in healthcare.
+
 The homepage: 
 The homepage serves as the digital front door, welcoming visitors with a clean and intuitive layout. Carefully crafted call-to-action sections guide users to explore services, learn about medical professionals, and conveniently contact the center.
+
 About Us page:
 Users can Explore the 'About Us' page to meet the proficient founder behind Cohig. They can Delve into a detailed profile that articulates the mission and vision of Cohig's initiative. Engage further by supporting the movement through the strategically placed button, linking directly to an interest form page.
 
